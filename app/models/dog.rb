@@ -19,7 +19,7 @@ class Dog
   # return dog
 end
 
-def create
+def all
   return @@all
   end
 end
