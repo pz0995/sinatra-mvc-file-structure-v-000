@@ -19,7 +19,6 @@ class Dog
   # return dog
 end
 
-def all
-  return @@all
+  def all
+    @@all
   end
-end
