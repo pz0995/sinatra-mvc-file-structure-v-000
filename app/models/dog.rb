@@ -19,6 +19,6 @@ class Dog
   # return dog
 end
 
-  def all
+  def all(all)
     @@all
   end
